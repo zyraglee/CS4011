@@ -1,0 +1,16 @@
+{
+  "name": "project1_cs4011",
+  "version": "1.0.0",
+  "description": "this project contains a home page,register page,login page, personal profile page, view/search profile page and an HTTP static server",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://comp.umsl.edu/gitlab/zdgx6/project1.git"
+  },
+  "author": "Zyra De Los Reyes",
+  "license": "ISC"
+}
